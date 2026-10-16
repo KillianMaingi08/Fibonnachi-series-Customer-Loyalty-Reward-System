@@ -1,12 +1,12 @@
-# Fibonacci Series – Customer Loyalty Reward System
+# Fibonacci Customer Loyalty Reward System
 
-A C++ Data Structures project demonstrating how the Fibonacci sequence and memoization can be applied to a customer loyalty reward system.
+A Data Structures assignment demonstrating the application of the Fibonacci sequence in a customer loyalty reward system.
 
-**Concepts:** Fibonacci Sequence, Recursion, Memoization  
-**Language:** C++
+**Course:** Data Structures
 
 ### Group Members
-- Stella Ndanu
-- Benta Pauline
-- Killian Maingi
-- Gerald Irungu
+- Stella Musyimi — CT204/125812/25
+- Benta Pauline — CT204/125563/25
+- Killian Maingi — CT204/124304/25
+- Gerald Irungu — CT204/205173/25
+- 
